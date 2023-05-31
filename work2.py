@@ -1,3 +1,6 @@
+# Ссылка на github
+# https://github.com/s-getmanov/st_python3.git
+
 #ChatGPT говорит нам, что этапов было 10, и мы ему поверим:)
 # 1. Sahelanthropus tchadensis
 # 2. Orrorin tugenensis
